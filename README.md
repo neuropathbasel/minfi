@@ -3,5 +3,5 @@ This is the developer version of Bioconductor package [minfi](http://bioconducto
 
 ```r
 library(devtools)                  
-install_github('mwsill/minfi')
+install_github('neuropathbasel/minfi')
 ```
